@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-2.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 # VK/VKVideo: Sort by Time (by ChatGPT 5)
 
 This userscript automatically sorts visible VK Video items by duration (↑/↓) on VK Video channel pages.
@@ -5,6 +7,7 @@ This userscript automatically sorts visible VK Video items by duration (↑/↓)
 ---
 
 ## ⚡ Easiest & Fastest Installation
+**➡️ [Install via Tampermonkey](https://raw.githubusercontent.com/patrykolaf353/vkvideo-sort-by-time/main/vkvideo-sort.user.js)**
 
 Tampermonkey can automatically detect and install `.user.js` scripts when you open them directly in your browser.
 
@@ -15,8 +18,7 @@ Tampermonkey can automatically detect and install `.user.js` scripts when you op
 4. Your browser will prompt Tampermonkey to install it automatically — just click **Install**.
 
 ---
-
-*if you are new to scripts and Tampermonkey*
+<sub><i>if you are new to scripts and Tampermonkey</i></sub>
 ## 📥 Manual Installation (Idiot-Proof Guide)
 
 1. **Open the add-ons store for your browser:**
