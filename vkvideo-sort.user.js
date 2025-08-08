@@ -7,6 +7,7 @@
 // @match        *://vk.com/*
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
