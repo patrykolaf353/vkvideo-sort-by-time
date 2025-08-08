@@ -6,6 +6,15 @@ This userscript automatically sorts visible VK Video items by duration (↑/↓)
 
 ---
 
+## 🖼️ Preview
+### Before <img width="1849" height="822" alt="image" src="https://github.com/user-attachments/assets/6d970c19-4688-4b07-9be8-8e211de18366" />
+
+### After <img width="1855" height="809" alt="image" src="https://github.com/user-attachments/assets/ca34310e-9dec-4c8d-ba52-bef53701be34" />
+
+
+---
+
+
 ## ⚡ Easiest & Fastest Installation
 **➡️ [Install via Tampermonkey](https://raw.githubusercontent.com/patrykolaf353/vkvideo-sort-by-time/main/vkvideo-sort.user.js)**
 
@@ -47,3 +56,4 @@ Tampermonkey can automatically detect and install `.user.js` scripts when you op
 - Tested on Chrome & Opera — should also work on any Chromium-based browser with Tampermonkey.
 
 ---
+
