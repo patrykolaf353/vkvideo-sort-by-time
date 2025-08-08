@@ -8,6 +8,10 @@
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png
 // @grant        none
 // @license      MIT
+// @downloadURL   https://raw.githubusercontent.com/patrykolaf353/vkvideo-sort-by-time/main/vkvideo-sort.user.js
+// @updateURL     https://raw.githubusercontent.com/patrykolaf353/vkvideo-sort-by-time/main/vkvideo-sort.user.js
+// @homepageURL   https://github.com/patrykolaf353/vkvideo-sort-by-time
+// @supportURL    https://github.com/patrykolaf353/vkvideo-sort-by-time/issues
 // ==/UserScript==
 
 (function () {
